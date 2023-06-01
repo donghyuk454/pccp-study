@@ -2,7 +2,6 @@
 
 def solution(clothes):
     answer = 1
-
     clothes_dict = dict()
 
     for cloth in clothes:
